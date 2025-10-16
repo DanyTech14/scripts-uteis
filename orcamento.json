@@ -1,0 +1,31 @@
+{
+  "plafond_mensal": 12000.0,
+  "orcamento_semanal": 3000.0,
+  "gastos": [
+    {
+      "data": "06/10/2025",
+      "valor": 600.0,
+      "motivo": "Táxi"
+    },
+    {
+      "data": "07/10/2025",
+      "valor": 600.0,
+      "motivo": "Táxi"
+    },
+    {
+      "data": "07/10/2025",
+      "valor": 700.0,
+      "motivo": "Projetor"
+    },
+    {
+      "data": "08/10/2025",
+      "valor": 600.0,
+      "motivo": "Táxi"
+    },
+    {
+      "data": "08/10/2025",
+      "valor": 250.0,
+      "motivo": "Material de Química"
+    }
+  ]
+}
